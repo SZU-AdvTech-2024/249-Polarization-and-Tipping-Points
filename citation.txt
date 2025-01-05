@@ -1,0 +1,7 @@
+@article{REPO249,
+    author = "Macy, Michael W. and Ma, Manqing and Tabin, Daniel R. and Gao, Jianxi and Szymanski, Boleslaw K.",
+    journal = "Proceedings of the National Academy of Sciences",
+    number = "50",
+    title = "{Polarization and tipping points}",
+    volume = "118"
+}
